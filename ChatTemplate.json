@@ -1,0 +1,14 @@
+{
+  "chat_name": "chat_name",
+  "id": 0,
+  "chat_history": [
+    {
+      "user": "prompt",
+      "bot": "response"
+    },
+    {
+      "user": "prompt",
+      "bot": "response"
+    }
+  ]
+}
